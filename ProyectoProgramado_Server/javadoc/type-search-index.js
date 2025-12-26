@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"main","l":"ConnectionThread"},{"p":"model","l":"DAOInformation"},{"p":"main","l":"MainServer"},{"p":"model","l":"Player"},{"p":"model","l":"PlayerList"},{"p":"model","l":"ReaderManager"},{"p":"model","l":"ScoreComparator"},{"p":"model","l":"WriterManager"}];updateSearchResults();
